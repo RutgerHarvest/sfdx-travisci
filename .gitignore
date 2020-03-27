@@ -9,4 +9,5 @@ node_modules
 .settings
 selenium-client-jars/
 test/artifacts
-settings.json
+.vscode/settings.json
+.vscode
