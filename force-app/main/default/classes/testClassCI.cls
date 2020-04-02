@@ -1,5 +1,5 @@
 public with sharing class testClassCI {
-    public Integer getNumber() {
+    public static Integer getNumber() {
         Integer testNumber = 123;
         return testNumber;
     }
